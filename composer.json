@@ -1,0 +1,19 @@
+{
+    "name": "miniphp/tp-helper",
+    "description": "A Public Helper For PHP Plugins",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "CodingHide",
+            "email": "zhiyuan.me@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tp\\helper\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
