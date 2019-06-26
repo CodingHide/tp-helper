@@ -10,7 +10,7 @@ MiniPHP 项目常用 PHP 方法扩展包，包含如下扩展：
 ## 安装
 
 ```bash
-composer require mpcn/tp-helper
+composer require mpcn/tp-helper dev-master
 ```
 
 ## 插件使用
