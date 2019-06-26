@@ -1,5 +1,5 @@
 {
-    "name": "miniphp/tp-helper",
+    "name": "mini/tp-helper",
     "description": "A Public Helper For PHP Plugins",
     "require": {
         "php": "^7.2"
