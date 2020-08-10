@@ -1,11 +1,11 @@
-# MiniPHP
+# tp-helper
 
 ## 简介
 
-MiniPHP 项目常用 PHP 方法扩展包，包含如下扩展：
+ThinkPHP 常用方法扩展包，包含如下扩展：
 
-- String
-- Array
+- String「字符串」
+- Array「数组」
 
 ## 安装
 
